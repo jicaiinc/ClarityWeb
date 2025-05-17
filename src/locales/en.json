@@ -4,6 +4,10 @@
     "modules": {
       "general": "General"
     },
+    "appearance": {
+      "title": "Appearance",
+      "description": "Customize the appearance of your interface"
+    },
     "language": {
       "title": "Language",
       "description": "Choose your preferred language",
