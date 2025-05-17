@@ -2,6 +2,11 @@
 A clearer, kinder, and more accessible web for all.
 
 ---
+# For Gemma Team
+- 暂时我只做了一个框架，完成了国际化和主题的配置。
+- 执行 `pnpm install` 安装所有安装包
+- 执行 `pnpm dev`命令会生成一个 chrome-mv3-dev 文件夹，在chrome中安装它就可以。
+
 
 ### 📘 ClarityWeb - Let Everyone Read the Web
 
