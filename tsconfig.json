@@ -1,0 +1,22 @@
+{
+  "extends": "plasmo/templates/tsconfig.base",
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    ".plasmo/index.d.ts",
+    "./**/*.ts",
+    "./**/*.tsx",
+    "../shared/**/*.{ts,js}"
+  ],
+  "compilerOptions": {
+    "paths": {
+      "~*": [
+        "./src/*"
+      ],
+      "@/*": ["./src/*"],
+      "@shared/*": ["../shared/*"] // 配置路径别名
+    },
+    "baseUrl": "."
+  }
+}

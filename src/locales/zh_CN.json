@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "title": "设置",
+    "modules": {
+      "general": "通用"
+    },
+    "appearance": {
+      "title": "外观",
+      "description": "自定义界面外观"
+    },
+    "language": {
+      "title": "语言",
+      "description": "选择您偏好的语言",
+      "select": "选择语言",
+      "english": "英语 - English",
+      "chinese": "中文 - 中文(简体)",
+      "chinese_tw": "中文 - 中文(繁体)",
+      "japanese": "日语 - 日本語",
+      "french": "法语 - Français",
+      "spanish": "西班牙语 - Español",
+      "german": "德语 - Deutsch",
+      "portuguese": "葡萄牙语 - Português",
+      "korean": "韩语 - 한국어",
+      "russian": "俄语 - Русский",
+      "thai": "泰语 - ไทย",
+      "arabic": "阿拉伯语 - العربية"
+    },
+    "theme": {
+      "light": "浅色模式",
+      "dark": "深色模式",
+      "system": "跟随系统"
+    }
+  },
+  "setup": {
+    "pinArrow": "固定箭头",
+    "clickMessage": "点击",
+    "toPinIt": "以固定",
+    "logoAlt": "ClarityWeb 图标",
+    "welcome": "欢迎使用 ClarityWeb",
+    "brandSlogan": "为每个人打造一个更清晰、更友好、更无障碍的网络世界。"
+  }
+}

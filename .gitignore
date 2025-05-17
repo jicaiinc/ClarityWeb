@@ -1,0 +1,7 @@
+/node_modules/
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/
+.DS_Store
+/build/
+.plasmo

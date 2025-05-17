@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "title": "Settings",
+    "modules": {
+      "general": "General"
+    },
+    "language": {
+      "title": "Language",
+      "description": "Choose your preferred language",
+      "select": "Select language",
+      "english": "English - English",
+      "chinese": "Chinese - 中文(简体)",
+      "chinese_tw": "Chinese - 中文(繁體)",
+      "japanese": "Japanese - 日本語",
+      "french": "French - Français",
+      "spanish": "Spanish - Español",
+      "german": "German - Deutsch",
+      "portuguese": "Portuguese - Português",
+      "korean": "Korean - 한국어",
+      "russian": "Russian - Русский",
+      "thai": "Thai - ไทย",
+      "arabic": "Arabic - العربية"
+    },
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "system": "System Mode"
+    }
+  },
+  "setup": {
+    "pinArrow": "Pin Arrow",
+    "clickMessage": "Click",
+    "toPinIt": "to pin it",
+    "logoAlt": "ClarityWeb Logo",
+    "welcome": "Welcome to ClarityWeb",
+    "brandSlogan": "A clearer, kinder, and more accessible web for all."
+  }
+}
